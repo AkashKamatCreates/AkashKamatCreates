@@ -97,7 +97,7 @@
 
 1. Hotel Booking website:
 
-2. **[Bash Automation](https://github.com/AkashKamatCreates/BashAutomation)**
+2. - **[Bash Automation](https://github.com/AkashKamatCreates/BashAutomation)**
 
    
 
