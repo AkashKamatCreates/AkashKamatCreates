@@ -1,28 +1,31 @@
 ![gitbanner](https://github.com/AkashKamatCreates/AkashKamatCreates/assets/100783004/354ccaf9-769e-485a-ab26-cbdba43f9491)
 
 
-<img align="right" alt="Coding" width="400" src="https://github.com/AkashKamatCreates/AkashKamatCreates/assets/100783004/7c7c736f-d981-43e6-b639-a6fb5ad89d5e">
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <p align="left"> <img src="https://komarev.com/ghpvc/?username=AkashKamatCreates&label=Profile%20views&color=0e75b6&style=flat" alt="Akash Kamat" /> </p>
 
+    <p align="left">
+      <a href="https://twitter.com/AKASHKAMAT13" target="blank">
+        <img src="https://img.shields.io/twitter/follow/AKASHKAMAT13" alt="akashkamat" />
+      </a>
+    </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AkashKamatCreates&label=Profile%20views&color=0e75b6&style=flat" alt="Akash Kamat" /> </p>
+    <ul>
+      <li>🔭 I’m currently working on <strong><span style="color:rgb(167, 230, 255)">A Full Productivity Suite</span></strong></li>
+      <li>🌱 I’m currently learning <strong><span style="color:rgb(167, 230, 255)">DevOps</span></strong></li>
+      <li>💬 I have worked on <strong><span style="color:rgb(167, 230, 255)">MERN, JAVA, ANDROID, BASH</span></strong></li>
+      <li>💻 My favorite OS of choice <strong><span style="color:rgb(167, 230, 255)">Fedora Linux workstation 38</span></strong></li>
+      <li>📫 How to reach me <strong><span style="color:blue">kamatakash13@gmail.com</span></strong></li>
+      <li>⚡ Hobbies <strong><span style="color:rgb(167, 230, 255)">Reading tech blogs, Badminton, Bike Riding</span></strong></li>
+    </ul>
+  </div>
 
-<p align="left"> 
-  <a href="https://twitter.com/AKASHKAMAT13" target="blank">
-    <img src="https://img.shields.io/twitter/follow/AKASHKAMAT13" alt="akashkamat" />
-  </a> 
-</p>
+  <div style="flex: 1; display: flex; justify-content: center;">
+    <img align="right" alt="Coding" width="400" src="https://github.com/AkashKamatCreates/AkashKamatCreates/assets/100783004/7c7c736f-d981-43e6-b639-a6fb5ad89d5e" style="max-height: 500px; object-fit: contain;">
+  </div>
+</div>
 
-- 🔭 I’m currently working on <strong><span style="color:rgb(167, 230, 255)">A Full Productivity Suite</span></strong>
-
-- 🌱 I’m currently learning <strong><span style="color:rgb(167, 230, 255)">DevOps</span></strong>
-
-- 💬 I have worked on <strong><span style="color:rgb(167, 230, 255)">MERN, JAVA, ANDROID, BASH</span></strong>
-
-- 💻 My favorite OS of choice <strong><span style="color:rgb(167, 230, 255)">Fedora Linux workstation 38</span></strong>
-
-- 📫 How to reach me <strong><span style="color:blue">kamatakash13@gmail.com</span></strong>
-
-- ⚡ Hobbies <strong><span style="color:rgb(167, 230, 255)">Reading tech blogs, Badminton, Bike Riding</span></strong>
 
 
 <h3 align="left">Connect with me:</h3>
