@@ -26,6 +26,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://twitter.com/AKASHKAMAT13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akashkamat" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/akash-kamat-7a78521a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akashkamatlinkedin" height="30" width="40" /></a>
@@ -93,4 +94,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AkashKamatCreates&&theme=tokyonight" alt="akashkamat" /></p>
 
 ### A Glimpse into my work:
+![Blue surf photo collage](https://github.com/AkashKamatCreates/AkashKamatCreates/assets/100783004/230c30c4-1fe9-4f00-b62d-68607c5b06a6)
 
