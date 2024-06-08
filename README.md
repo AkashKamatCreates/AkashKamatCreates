@@ -93,6 +93,16 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AkashKamatCreates&&theme=tokyonight" alt="akashkamat" /></p>
 
+### Have a look at my Projects:
+
+1. Hotel Booking website:
+
+2. Bash Automation:
+   
+
+4. Workout Application: 
+5. Wonder AR Application (Group project):
+
 ### A Glimpse into my work:
 ![Blue surf photo collage](https://github.com/AkashKamatCreates/AkashKamatCreates/assets/100783004/230c30c4-1fe9-4f00-b62d-68607c5b06a6)
 
