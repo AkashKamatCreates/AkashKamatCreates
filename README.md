@@ -97,7 +97,8 @@
 
 1. Hotel Booking website:
 
-2. Bash Automation:
+2. **[Bash Automation](https://github.com/AkashKamatCreates/BashAutomation)**
+
    
 
 4. Workout Application: 
