@@ -6,6 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AkashKamatCreates&label=Profile%20views&color=0e75b6&style=flat" alt="Akash Kamat" /> </p>
 
+<p align="left"> 
+  <a href="https://twitter.com/AKASHKAMAT13" target="blank">
+    <img src="https://img.shields.io/twitter/follow/AKASHKAMAT13?logo=twitter&style=for-the-badge" alt="akashkamat" />
+  </a> 
+</p>
 
 - 🔭 I’m currently working on <strong><span style="color:rgb(167, 230, 255)">A Full Productivity Suite</span></strong>
 
