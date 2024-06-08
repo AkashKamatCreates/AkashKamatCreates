@@ -106,5 +106,6 @@
 
 
 ### A Glimpse into my work:
-![Blue surf photo collage](https://github.com/AkashKamatCreates/AkashKamatCreates/assets/100783004/230c30c4-1fe9-4f00-b62d-68607c5b06a6)
+![glimpseintowork](https://github.com/AkashKamatCreates/AkashKamatCreates/assets/100783004/d00ba344-22ab-428c-8db4-55cc9586d78e)
+
 
