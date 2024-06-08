@@ -95,13 +95,12 @@
 
 ### Have a look at my Favourite Projects:
 
-1. Hotel Booking website:
-
-2. - **[Bash Automation](https://github.com/AkashKamatCreates/BashAutomation)**
+1. - **[Bash Automation](https://github.com/AkashKamatCreates/BashAutomation)**
 
    
 
-3. - **[Workout Application](https://github.com/AkashKamatCreates/KotlinWorkoutApplication/)**
+2. - **[Workout Application](https://github.com/AkashKamatCreates/KotlinWorkoutApplication/)**
+3. - **[Hotel Booking Application](https://github.com/AkashKamatCreates/MERNHotel)**
 
 4. - **[Wonder AR Application (Group project)](https://drive.google.com/file/d/10kNVrIYnt3cL_ZutfysTxtmQ3G_gVHGR/view)**
 
