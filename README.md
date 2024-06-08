@@ -8,7 +8,7 @@
 
 <p align="left"> 
   <a href="https://twitter.com/AKASHKAMAT13" target="blank">
-    <img src="https://img.shields.io/twitter/follow/AKASHKAMAT13?logo=twitter&style=for-the-badge" alt="akashkamat" />
+    <img src="https://img.shields.io/twitter/follow/AKASHKAMAT13" alt="akashkamat" />
   </a> 
 </p>
 
