@@ -93,7 +93,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AkashKamatCreates&&theme=tokyonight" alt="akashkamat" /></p>
 
-### Have a look at my Projects:
+### Have a look at my Favourite Projects:
 
 1. Hotel Booking website:
 
