@@ -1,7 +1,7 @@
 ![gitbanner](https://github.com/AkashKamatCreates/AkashKamatCreates/assets/100783004/354ccaf9-769e-485a-ab26-cbdba43f9491)
 
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/AkashKamatCreates/AkashKamatCreates/assets/100783004/7c7c736f-d981-43e6-b639-a6fb5ad89d5e">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AkashKamatCreates&label=Profile%20views&color=0e75b6&style=flat" alt="Akash Kamat" /> </p>
@@ -24,7 +24,6 @@
 
 - ⚡ Hobbies <strong><span style="color:rgb(167, 230, 255)">Reading tech blogs, Badminton, Bike Riding</span></strong>
 
-![coding](https://github.com/AkashKamatCreates/AkashKamatCreates/assets/100783004/7c7c736f-d981-43e6-b639-a6fb5ad89d5e)
 
 <h3 align="left">Connect with me:</h3>
 
