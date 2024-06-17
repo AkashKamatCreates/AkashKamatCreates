@@ -98,7 +98,7 @@
    
 
 2. - **[Workout Application](https://github.com/AkashKamatCreates/KotlinWorkoutApplication/)**
-3. - **[Hotel Booking Application](https://github.com/AkashKamatCreates/MERNHotel)**
+3. - **[Expense Visualizer](https://github.com/AkashKamatCreates/ExpenseVisualizer/blob/main/README.md)**
 
 4. - **[Wonder AR Application (Group project)](https://github.com/AkashKamatCreates/FinalYearProject/tree/main)**
 
