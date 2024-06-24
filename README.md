@@ -18,7 +18,7 @@
 
 - 💬 I have worked on <strong><span style="color:rgb(167, 230, 255)">MERN, JAVA, ANDROID, BASH</span></strong>
 
-- 💻 My favorite OS of choice <strong><span style="color:rgb(167, 230, 255)">Fedora Linux workstation 38</span></strong>
+- 💻 My favorite OS of choice <strong><span style="color:rgb(167, 230, 255)">Ubuntu 24 LTS (Second fav: Fedora Workstation 39)</span></strong>
 
 - 📫 How to reach me <strong><span style="color:blue">kamatakash13@gmail.com</span></strong>
 
