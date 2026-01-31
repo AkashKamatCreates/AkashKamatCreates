@@ -12,10 +12,6 @@
   </a> 
 </p>
 
-- 🔭 I’m currently working on <strong><span style="color:rgb(167, 230, 255)">A Full Productivity Suite</span></strong>
-
-- 🌱 I’m currently exploring <strong><span style="color:rgb(167, 230, 255)">System Design</span></strong>
-
 - 💬 I have worked on <strong><span style="color:rgb(167, 230, 255)">MERN, JAVA, ANDROID, BASH</span></strong>
 
 - 💻 My favorite OS of choice <strong><span style="color:rgb(167, 230, 255)">Ubuntu 24 LTS (Second fav: Fedora Workstation 39)</span></strong>
