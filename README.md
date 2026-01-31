@@ -18,7 +18,7 @@
 
 - 📫 How to reach me <strong><span style="color:blue">kamatakash13@gmail.com</span></strong>
 
-- ⚡ Hobbies <strong><span style="color:rgb(167, 230, 255)">Reading tech blogs, Projects, Badminton</span></strong>
+- ⚡ Hobbies <strong><span style="color:rgb(167, 230, 255)">building projects, reading tech blogs</span></strong>
 
 
 
